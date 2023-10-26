@@ -78,6 +78,7 @@ Designed a user-friendly and visually appealing webpage to showcase the results 
 
 [Click to download video](https://github.com/ShivanniShinde/Instahyre-Job-Analysis/raw/main/assets/143825606/034082d1-236a-4b5d-bf2c-10e4cc02e537)
 ## Challenges 🧩
+<img src="https://github.com/ShivanniShinde/Instahyre-Job-Analysis/assets/143825606/9e3fdd2d-c7cc-4f3e-bb2c-1d849048dfe2" width="400" align="right">
 
 During the development of this project, we encountered several challenges, which included:
 
