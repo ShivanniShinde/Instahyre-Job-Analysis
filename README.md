@@ -1,4 +1,5 @@
 # Instahyre-Job-Analysis
+![image](https://github.com/ShivanniShinde/Instahyre-Job-Analysis/assets/143825606/9c78f7a1-e84e-4c70-a983-558d07e78642)
 
 # Introduction
 Welcome to the InstaHyre Data Analysis and Visualization Project! We extract data from InstaHyre using Selenium, analyze it using K-means clustering, and visualize the results on a custom webpage.
