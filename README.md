@@ -2,13 +2,26 @@
 
 <img src="https://github.com/ShivanniShinde/Instahyre-Job-Analysis/assets/143825606/e502f58f-c6b1-474b-bf40-aeb8afe63796" alt="Image Description" >
 
-# Introduction
+# Table of Contents
+
+- [Instahyre-Job-Analysis](#instahyre-job-analysis)
+- [Introduction 🚀](#introduction-)
+- [Objectives 🎯](#objectives-)
+- [K-Means Clustering ✨](#k-means-clustering-)
+  - [Model creation 💡](#model-creation-)
+  - [Evaluating Model 📜](#evaluating-model-)
+  - [Elbow Clustering for K-Means ✨](#elbow-clustering-for-k-means-)
+- [Webpage Creation 🌐](#webpage-creation-)
+- [Challenges 🧩](#challenges-)
+
+
+# Introduction 🚀
 
 The Instahyre Job Analytics project is a data-driven endeavor that involves web scraping job posting data from Instahyre, followed by thorough data preprocessing and clustering analysis. The project's primary goal is to empower users with insights into the job market.
 
 This project culminated in the development of an interactive web application, offering users the opportunity to explore job market insights, trends, and valuable information. Whether you are a job seeker or a recruiter, this project is designed to provide you with a comprehensive and user-friendly tool for making informed decisions in the job market.
 
-# Objectives
+# Objectives 🎯
 <img src="https://github.com/ShivanniShinde/Instahyre-Job-Analysis/assets/143825606/8a7a475b-62a5-4410-b6f6-418fa68f6a79" alt="Image Description" width="100" height="100" align ='right'>
 
 - **Data Extraction:** Our project employs Selenium, a powerful web automation tool, to extract data from the InstaHyre website. This data includes job listings, company information, and various other relevant details.
@@ -20,7 +33,7 @@ This project culminated in the development of an interactive web application, of
 <br>
 <br>
 
-# K-Means Clustering
+# K-Means Clustering ✨
 
 K-Means is a machine learning technique used for data clustering. It groups similar data points into clusters based on their characteristics. In our project, we used K-Means clustering to discover patterns and relationships within job listings and companies, making it easier to identify trends and insights in the data.
 
@@ -28,7 +41,7 @@ K-Means is a machine learning technique used for data clustering. It groups simi
 
 
 
-## Model creation
+## Model creation 💡
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; margin-right: 20px;">
         <img src="https://github.com/ShivanniShinde/Instahyre-Job-Analysis/assets/143825606/8d89a528-2d06-441f-b773-5594d1a4690d" alt="Image Description" width="350" align ='left'>
@@ -42,14 +55,14 @@ K-Means is a machine learning technique used for data clustering. It groups simi
 <br>
 <br>
 
-## Evaluating Model
+## Evaluating Model 📜
 A Silhouette Score is a metric used to evaluate the quality of clusters in K-Means clustering or other clustering algorithms
 Silhouette Score of 0.97998 indicates strong and well-separated clusters in your K-Means model.
 <p align="center">
   <img src="https://github.com/ShivanniShinde/Instahyre-Job-Analysis/assets/143825606/74ade680-fbb4-4058-8cc3-3a649641a1e4" alt="Image Description" width="450">
 </p>
 
-## Elbow Clustering for K-Means
+## Elbow Clustering for K-Means ✨
 
 Elbow clustering, often used in K-Means, is a technique to determine the optimal number of clusters (k) for a dataset. It involves running K-Means for a range of k values and then looking for the "elbow point" on a plot of the cost or variance against k. The elbow point indicates the point where increasing the number of clusters no longer significantly reduces the within-cluster variance.
 
@@ -59,13 +72,13 @@ By applying elbow clustering, we aim to find the most appropriate number of clus
   <img src="https://github.com/ShivanniShinde/Instahyre-Job-Analysis/assets/143825606/43425f33-2f39-460f-9277-e23ddf57cb80" alt="Image Description" width="450">
 </p>
 
-# Webpage Creation
+# Webpage Creation 🌐
 Designed a user-friendly and visually appealing webpage to showcase the results of  analysis. This webpage was created using HTML and CSS, combining elegant design with informative content.
 
 ## Video Presentation of webpage
 
 [Click to download video](https://github.com/ShivanniShinde/Instahyre-Job-Analysis/raw/main/assets/143825606/034082d1-236a-4b5d-bf2c-10e4cc02e537)
-## Challenges
+## Challenges 🧩
 
 During the development of this project, we encountered several challenges, which included:
 
