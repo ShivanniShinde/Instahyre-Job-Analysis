@@ -13,12 +13,14 @@
 - [Webpage Creation 🌐](#webpage-creation-)
 - [Challenges 🧩](#challenges-)
 
-
+---
 # Introduction 🚀
 
 The Instahyre Job Analytics project is a data-driven endeavor that involves web scraping job posting data from Instahyre, followed by thorough data preprocessing and clustering analysis. The project's primary goal is to empower users with insights into the job market.
 
 This project culminated in the development of an interactive web application, offering users the opportunity to explore job market insights, trends, and valuable information. Whether you are a job seeker or a recruiter, this project is designed to provide you with a comprehensive and user-friendly tool for making informed decisions in the job market.
+
+---
 
 # Objectives 🎯
 <img src="https://github.com/ShivanniShinde/Instahyre-Job-Analysis/assets/143825606/8a7a475b-62a5-4410-b6f6-418fa68f6a79" alt="Image Description" width="100" height="100" align ='right'>
@@ -32,10 +34,11 @@ This project culminated in the development of an interactive web application, of
 <br>
 <br>
 
+---
+
 # K-Means Clustering ✨
 
 K-Means is a machine learning technique used for data clustering. It groups similar data points into clusters based on their characteristics. In our project, we used K-Means clustering to discover patterns and relationships within job listings and companies, making it easier to identify trends and insights in the data.
-
 
 
 
@@ -55,12 +58,14 @@ K-Means is a machine learning technique used for data clustering. It groups simi
 <br>
 <br>
 
+
 ## Evaluating Model 📜
 A Silhouette Score is a metric used to evaluate the quality of clusters in K-Means clustering or other clustering algorithms
 Silhouette Score of 0.97998 indicates strong and well-separated clusters in your K-Means model.
 <p align="center">
   <img src="https://github.com/ShivanniShinde/Instahyre-Job-Analysis/assets/143825606/74ade680-fbb4-4058-8cc3-3a649641a1e4" alt="Image Description" width="450">
 </p>
+
 
 ## Elbow Clustering for K-Means ✨
 
@@ -72,12 +77,17 @@ By applying elbow clustering, we aim to find the most appropriate number of clus
   <img src="https://github.com/ShivanniShinde/Instahyre-Job-Analysis/assets/143825606/43425f33-2f39-460f-9277-e23ddf57cb80" alt="Image Description" width="450">
 </p>
 
+---
+
 # Webpage Creation 🌐
 Designed a user-friendly and visually appealing webpage to showcase the results of  analysis. This webpage was created using HTML and CSS, combining elegant design with informative content.
 
 ## Video Presentation of webpage
 
 [Click to download video](https://github.com/ShivanniShinde/Instahyre-Job-Analysis/raw/main/assets/143825606/034082d1-236a-4b5d-bf2c-10e4cc02e537)
+
+---
+
 ## Challenges 🧩
 <img src="https://github.com/ShivanniShinde/Instahyre-Job-Analysis/assets/143825606/9e3fdd2d-c7cc-4f3e-bb2c-1d849048dfe2" width="400" align="right">
 
