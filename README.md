@@ -52,12 +52,12 @@ By applying elbow clustering, we aim to find the most appropriate number of clus
 </p>
 
 ## Webpage Creation
+Designed a user-friendly and visually appealing webpage to showcase the results of  analysis. This webpage was created using HTML and CSS, combining elegant design with informative content.
 
-We've designed a user-friendly and visually appealing webpage to showcase the results of our analysis. This webpage was created using HTML and CSS, combining elegant design with informative content.
+## Video Presentation of webpage
 
-On this webpage, you can explore the insights, trends, and visual representations derived from our K-Means clustering analysis of InstaHyre data. Whether you're a recruiter seeking valuable talent insights or a job seeker looking to stay updated with industry trends, this webpage provides a seamless experience for data exploration.
+[Click to download video](https://github.com/ShivanniShinde/Instahyre-Job-Analysis/raw/main/assets/143825606/034082d1-236a-4b5d-bf2c-10e4cc02e537)
 
-Feel free to visit the webpage [here](http://127.0.0.1:5000/), and discover the power of data visualization in recruitment analysis.
 
 
 
