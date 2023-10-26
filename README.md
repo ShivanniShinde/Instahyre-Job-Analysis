@@ -2,10 +2,6 @@
 
 <img src="https://github.com/ShivanniShinde/Instahyre-Job-Analysis/assets/143825606/e502f58f-c6b1-474b-bf40-aeb8afe63796" alt="Image Description" >
 
-
-
-
-
 # Introduction
 
 The Instahyre Job Analytics project is a data-driven endeavor that involves web scraping job posting data from Instahyre, followed by thorough data preprocessing and clustering analysis. The project's primary goal is to empower users with insights into the job market.
@@ -21,7 +17,6 @@ This project culminated in the development of an interactive web application, of
 - **Data Analysis:** To make sense of the extracted data, we implement a K-means clustering model. This model groups job listings and companies into clusters based on common characteristics, allowing users to identify trends and patterns.
   <img src="https://github.com/ShivanniShinde/Instahyre-Job-Analysis/assets/143825606/81a13dec-0cec-4355-beb8-a59d0e3e8bb7" alt="Image Description" width="250" align ='right'>
 - **Webpage Creation:** We've created an interactive webpage using HTML and CSS that displays the analyzed data in a user-friendly and visually appealing manner.
-<br>
 <br>
 <br>
 
@@ -44,7 +39,8 @@ K-Means is a machine learning technique used for data clustering. It groups simi
     
   </div>
 </div>
-
+<br>
+<br>
 
 ## Evaluating Model
 A Silhouette Score is a metric used to evaluate the quality of clusters in K-Means clustering or other clustering algorithms
@@ -67,6 +63,8 @@ By applying elbow clustering, we aim to find the most appropriate number of clus
 Designed a user-friendly and visually appealing webpage to showcase the results of  analysis. This webpage was created using HTML and CSS, combining elegant design with informative content.
 
 ## Video Presentation of webpage
+
+<a href="https://github.com/ShivanniShinde/Instahyre-Job-Analysis/raw/main/assets/143825606/034082d1-236a-4b5d-bf2c-10e4cc02e537" style="font-size: 5px;">Click to download video</a>
 
 
 [Click to download video](https://github.com/ShivanniShinde/Instahyre-Job-Analysis/raw/main/assets/143825606/034082d1-236a-4b5d-bf2c-10e4cc02e537)
