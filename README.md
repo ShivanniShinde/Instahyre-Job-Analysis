@@ -2,7 +2,10 @@
 ![image](https://github.com/ShivanniShinde/Instahyre-Job-Analysis/assets/143825606/9c78f7a1-e84e-4c70-a983-558d07e78642)
 
 # Introduction
-Welcome to the InstaHyre Data Analysis and Visualization Project! We extract data from InstaHyre using Selenium, analyze it using K-means clustering, and visualize the results on a custom webpage.
+
+The Instahyre Job Analytics project is a data-driven endeavor that involves web scraping job posting data from Instahyre, followed by thorough data preprocessing and clustering analysis. The project's primary goal is to empower users with insights into the job market.
+
+This project culminated in the development of an interactive web application, offering users the opportunity to explore job market insights, trends, and valuable information. Whether you are a job seeker or a recruiter, this project is designed to provide you with a comprehensive and user-friendly tool for making informed decisions in the job market.
 
 # Objectives
 
@@ -10,11 +13,7 @@ Welcome to the InstaHyre Data Analysis and Visualization Project! We extract dat
 
 - **Data Analysis:** To make sense of the extracted data, we implement a K-means clustering model. This model groups job listings and companies into clusters based on common characteristics, allowing users to identify trends and patterns.
 
-- **Webpage Creation:** We've created an interactive webpage using HTML and CSS that displays the analyzed data in a user-friendly and visually appealing manner. Users can explore insights, trends, and visual representations, making data more accessible and understandable.
-
-
-
-
+- **Webpage Creation:** We've created an interactive webpage using HTML and CSS that displays the analyzed data in a user-friendly and visually appealing manner.
 
 # K-Means Clustering
 
@@ -59,7 +58,23 @@ Designed a user-friendly and visually appealing webpage to showcase the results 
 
 ## Video Presentation of webpage
 
+
 [Click to download video](https://github.com/ShivanniShinde/Instahyre-Job-Analysis/raw/main/assets/143825606/034082d1-236a-4b5d-bf2c-10e4cc02e537)
+## Challenges
+
+During the development of this project, we encountered several challenges, which included:
+
+1. **Webpage Design:** Designing a webpage with HTML and CSS presented challenges in making it both visually appealing and functional.
+
+2. **User Input Handling:** Managing user input for text processing and learning was complex, requiring effective validation and processing mechanisms.
+
+3. **Backend Development:** Developing the backend with Flask was a bit challenging, particularly when setting up data communication between the frontend and backend components.
+
+4. **Deployment Issues:** Figuring out how to deploy the project on different platforms and solving related deployment issues posed several difficulties, ensuring the project runs smoothly in various environments.
+
+5. **Web Scraping:** Web scraping using the Selenium library presented its own set of challenges, from handling dynamic web pages to efficient data extraction.
+
+These challenges were crucial in our learning process and in making the project robust and user-friendly.
 
 
 
