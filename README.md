@@ -23,10 +23,11 @@ K-Means is a machine learning technique used for data clustering. It groups simi
 
 
 
+
 ## Model creation
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; margin-right: 20px;">
-        <img src="https://github.com/ShivanniShinde/Instahyre-Job-Analysis/assets/143825606/c574f75d-3465-4f31-9f55-afd21deacaa6" alt="Image Description" width="350" align ='right'>
+        <img src="https://github.com/ShivanniShinde/Instahyre-Job-Analysis/assets/143825606/8d89a528-2d06-441f-b773-5594d1a4690d" alt="Image Description" width="350" align ='right'>
     </div>
     <div style="flex: 2;">
        <li> We employed the Scikit-learn library for K-Means clustering. Scikit-learn is a powerful machine learning library in Python, and we harnessed its capabilities to implement a K-Means clustering model. </li><li>This model groups job listings and companies into clusters based on common characteristics, enabling the identification of valuable trends and patterns in the data.</li>
@@ -35,11 +36,12 @@ K-Means is a machine learning technique used for data clustering. It groups simi
   </div>
 </div>
 
+
 ## Evaluating Model
 A Silhouette Score is a metric used to evaluate the quality of clusters in K-Means clustering or other clustering algorithms
 Silhouette Score of 0.97998 indicates strong and well-separated clusters in your K-Means model.
 <p align="center">
-  <img src="https://github.com/ShivanniShinde/Instahyre-Job-Analysis/assets/143825606/7c238a9a-957f-4519-9153-6686ac25a39e" alt="Image Description" width="350">
+  <img src="https://github.com/ShivanniShinde/Instahyre-Job-Analysis/assets/143825606/74ade680-fbb4-4058-8cc3-3a649641a1e4" alt="Image Description" width="450">
 </p>
 
 ## Elbow Clustering for K-Means
