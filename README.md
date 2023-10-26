@@ -21,7 +21,10 @@ This project culminated in the development of an interactive web application, of
 - **Data Analysis:** To make sense of the extracted data, we implement a K-means clustering model. This model groups job listings and companies into clusters based on common characteristics, allowing users to identify trends and patterns.
   <img src="https://github.com/ShivanniShinde/Instahyre-Job-Analysis/assets/143825606/81a13dec-0cec-4355-beb8-a59d0e3e8bb7" alt="Image Description" width="250" align ='right'>
 - **Webpage Creation:** We've created an interactive webpage using HTML and CSS that displays the analyzed data in a user-friendly and visually appealing manner.
- 
+<br>
+<br>
+<br>
+
 # K-Means Clustering
 
 K-Means is a machine learning technique used for data clustering. It groups similar data points into clusters based on their characteristics. In our project, we used K-Means clustering to discover patterns and relationships within job listings and companies, making it easier to identify trends and insights in the data.
