@@ -79,6 +79,8 @@ During the development of this project, we encountered several challenges, which
 
 These challenges were crucial in our learning process and in making the project robust and user-friendly.
 
+In summary, the project successfully provided insights into the job market through data analysis and web development, despite various data-related challenges.
+
 
 
 
