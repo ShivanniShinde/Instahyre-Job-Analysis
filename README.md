@@ -64,9 +64,6 @@ Designed a user-friendly and visually appealing webpage to showcase the results 
 
 ## Video Presentation of webpage
 
-<a href="https://github.com/ShivanniShinde/Instahyre-Job-Analysis/raw/main/assets/143825606/034082d1-236a-4b5d-bf2c-10e4cc02e537" style="font-size: 5px;">Click to download video</a>
-
-
 [Click to download video](https://github.com/ShivanniShinde/Instahyre-Job-Analysis/raw/main/assets/143825606/034082d1-236a-4b5d-bf2c-10e4cc02e537)
 ## Challenges
 
