@@ -4,7 +4,6 @@
 
 # Table of Contents
 
-- [Instahyre-Job-Analysis](#instahyre-job-analysis)
 - [Introduction 🚀](#introduction-)
 - [Objectives 🎯](#objectives-)
 - [K-Means Clustering ✨](#k-means-clustering-)
