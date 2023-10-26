@@ -48,6 +48,7 @@ K-Means is a machine learning technique used for data clustering. It groups simi
     <div style="flex: 2;">
        <li> We employed the Scikit-learn library for K-Means clustering. Scikit-learn is a powerful machine learning library in Python, and we harnessed its capabilities to implement a K-Means clustering model. </li><li>This model groups job listings and companies into clusters based on common characteristics, enabling the identification of valuable trends and patterns in the data.</li>
         <li>Our use of Scikit-learn ensures that the clustering process is efficient and robust, allowing for meaningful insights to be extracted from the data.</li>
+        <br>
     
   </div>
 </div>
