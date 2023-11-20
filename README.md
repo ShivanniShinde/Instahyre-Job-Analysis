@@ -47,7 +47,7 @@ K-Means is a machine learning technique used for data clustering. It groups simi
 ## Model creation 💡
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; margin-right: 20px;">
-        <img src="https://github.com/ShivanniShinde/Instahyre-Job-Analysis/assets/143825606/8d89a528-2d06-441f-b773-5594d1a4690d" alt="Image Description" width="350" align ='left'>
+        <img src="https://github.com/ShivanniShinde/Instahyre-Job-Analysis/assets/143825606/8d89a528-2d06-441f-b773-5594d1a4690d" alt="Image Description" width="400" align ='left'>
     </div>
     <div style="flex: 2;">
        <li> We employed the Scikit-learn library for K-Means clustering. Scikit-learn is a powerful machine learning library in Python, and we harnessed its capabilities to implement a K-Means clustering model. </li><li>This model groups job listings and companies into clusters based on common characteristics, enabling the identification of valuable trends and patterns in the data.</li>
